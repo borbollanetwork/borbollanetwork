@@ -23,13 +23,13 @@ $ cat ~/.profile
 
 <div align="center">
 
-![Pentester](https://img.shields.io/badge/Pentester-00ff41?style=flat-square&labelColor=0a0a0a)
-![Red Team](https://img.shields.io/badge/Red_Team-fb2c36?style=flat-square&labelColor=0a0a0a)
-![Purple Team](https://img.shields.io/badge/Purple_Team-a855f7?style=flat-square&labelColor=0a0a0a)
-![OSINT](https://img.shields.io/badge/OSINT-00ff41?style=flat-square&labelColor=0a0a0a)
-![Cyber Threat Intel](https://img.shields.io/badge/Cyber_Threat_Intelligence-f59e0b?style=flat-square&labelColor=0a0a0a)
-![Social Engineer](https://img.shields.io/badge/Social_Engineer-a855f7?style=flat-square&labelColor=0a0a0a)
-![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-f59e0b?style=flat-square&labelColor=0a0a0a)
+![Pentester](https://img.shields.io/badge/-Pentester-0d1421?style=for-the-badge&labelColor=00ff41)
+![Red Team](https://img.shields.io/badge/-Red_Team-0d1421?style=for-the-badge&labelColor=fb2c36)
+![Purple Team](https://img.shields.io/badge/-Purple_Team-0d1421?style=for-the-badge&labelColor=a855f7)
+![OSINT](https://img.shields.io/badge/-OSINT-0d1421?style=for-the-badge&labelColor=00ff41)
+![Cyber Threat Intel](https://img.shields.io/badge/-Cyber_Threat_Intelligence-0d1421?style=for-the-badge&labelColor=f59e0b)
+![Social Engineer](https://img.shields.io/badge/-Social_Engineer-0d1421?style=for-the-badge&labelColor=a855f7)
+![Ethical Hacker](https://img.shields.io/badge/-Ethical_Hacker-0d1421?style=for-the-badge&labelColor=f59e0b)
 
 </div>
 
@@ -55,23 +55,23 @@ $ cat ~/.profile
 
 <div align="center">
 
-![Kali](https://img.shields.io/badge/Kali_Linux-a855f7?style=flat-square&logo=kalilinux&logoColor=black&labelColor=0a0a0a)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-fb2c36?style=flat-square&logo=burpsuite&logoColor=black&labelColor=0a0a0a)
-![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-fb2c36?style=flat-square&labelColor=0a0a0a)
-![Sliver](https://img.shields.io/badge/Sliver-00ff41?style=flat-square&labelColor=0a0a0a)
-![Havoc C2](https://img.shields.io/badge/Havoc_C2-00ff41?style=flat-square&labelColor=0a0a0a)
-![BloodHound](https://img.shields.io/badge/BloodHound-f59e0b?style=flat-square&labelColor=0a0a0a)
-![Mimikatz](https://img.shields.io/badge/Mimikatz-fb2c36?style=flat-square&labelColor=0a0a0a)
-![Nmap](https://img.shields.io/badge/Nmap-00ff41?style=flat-square&logo=nmap&logoColor=black&labelColor=0a0a0a)
-![Nuclei](https://img.shields.io/badge/Nuclei-f59e0b?style=flat-square&labelColor=0a0a0a)
-![ffuf](https://img.shields.io/badge/ffuf-a855f7?style=flat-square&labelColor=0a0a0a)
+![Kali](https://img.shields.io/badge/-Kali_Linux-0d1421?style=flat-square&labelColor=a855f7&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-0d1421?style=flat-square&labelColor=fb2c36&logo=burpsuite&logoColor=white)
+![Cobalt Strike](https://img.shields.io/badge/-Cobalt_Strike-0d1421?style=flat-square&labelColor=fb2c36)
+![Sliver](https://img.shields.io/badge/-Sliver_C2-0d1421?style=flat-square&labelColor=00ff41)
+![Havoc](https://img.shields.io/badge/-Havoc_C2-0d1421?style=flat-square&labelColor=00ff41)
+![BloodHound](https://img.shields.io/badge/-BloodHound-0d1421?style=flat-square&labelColor=f59e0b)
+![Mimikatz](https://img.shields.io/badge/-Mimikatz-0d1421?style=flat-square&labelColor=fb2c36)
+![Nmap](https://img.shields.io/badge/-Nmap-0d1421?style=flat-square&labelColor=00ff41&logo=nmap&logoColor=white)
+![Nuclei](https://img.shields.io/badge/-Nuclei-0d1421?style=flat-square&labelColor=f59e0b)
+![ffuf](https://img.shields.io/badge/-ffuf-0d1421?style=flat-square&labelColor=a855f7)
 <br>
-![PowerShell](https://img.shields.io/badge/PowerShell-00ff41?style=flat-square&logo=powershell&logoColor=black&labelColor=0a0a0a)
-![Python](https://img.shields.io/badge/Python-f59e0b?style=flat-square&logo=python&logoColor=black&labelColor=0a0a0a)
-![Bash](https://img.shields.io/badge/Bash-00ff41?style=flat-square&logo=gnubash&logoColor=black&labelColor=0a0a0a)
-![AWS](https://img.shields.io/badge/AWS-f59e0b?style=flat-square&logo=amazonwebservices&logoColor=black&labelColor=0a0a0a)
-![Azure](https://img.shields.io/badge/Azure-00ff41?style=flat-square&logo=microsoftazure&logoColor=black&labelColor=0a0a0a)
-![Wireshark](https://img.shields.io/badge/Wireshark-a855f7?style=flat-square&logo=wireshark&logoColor=black&labelColor=0a0a0a)
+![PowerShell](https://img.shields.io/badge/-PowerShell-0d1421?style=flat-square&labelColor=00ff41&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0d1421?style=flat-square&labelColor=f59e0b&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-0d1421?style=flat-square&labelColor=00ff41&logo=gnubash&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-0d1421?style=flat-square&labelColor=f59e0b&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0d1421?style=flat-square&labelColor=00ff41&logo=microsoftazure&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-0d1421?style=flat-square&labelColor=a855f7&logo=wireshark&logoColor=white)
 
 </div>
 
