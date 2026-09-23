@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="250" viewBox="0 0 1100 250" role="img" aria-labelledby="title desc">
+  <title id="title">Perfil de Renato Borbolla em terminal colorido</title>
+  <desc id="desc">Resumo profissional com Pentest, Red Team, segurança ofensiva, IA e OSINT.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1421"/>
+      <stop offset="1" stop-color="#080d17"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ff41"/>
+      <stop offset="0.38" stop-color="#38bdf8"/>
+      <stop offset="0.68" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1098" height="248" rx="12" fill="url(#panel)" stroke="#2a3444" stroke-width="2"/>
+  <rect x="1" y="1" width="1098" height="4" rx="2" fill="url(#accent)"/>
+
+  <circle cx="25" cy="24" r="6" fill="#fb2c36"/>
+  <circle cx="45" cy="24" r="6" fill="#f59e0b"/>
+  <circle cx="65" cy="24" r="6" fill="#00ff41"/>
+  <text x="1032" y="31" fill="#00ff41" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" font-weight="700" filter="url(#glow)">&gt;_</text>
+
+  <g font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18">
+    <text x="24" y="66" fill="#00ff41" font-weight="700">$ whoami</text>
+
+    <text x="24" y="94" fill="#38bdf8" font-weight="700">renato_basante_borbolla</text>
+    <text x="282" y="94" fill="#65727e"># aka</text>
+    <text x="348" y="94" fill="#a855f7">borbollanetwork</text>
+    <text x="520" y="94" fill="#65727e">· São Paulo, BR</text>
+
+    <text x="24" y="132" fill="#00ff41" font-weight="700">$ cat</text>
+    <text x="90" y="132" fill="#f59e0b" font-weight="700">~/.profile</text>
+
+    <text x="24" y="164" fill="#c9d1d9">"</text>
+    <text x="36" y="164" fill="#00ff41" font-weight="700">Pentester</text>
+    <text x="134" y="164" fill="#c9d1d9">e</text>
+    <text x="158" y="164" fill="#fb2c36" font-weight="700">Red Team</text>
+    <text x="252" y="164" fill="#c9d1d9">especializado em</text>
+    <text x="418" y="164" fill="#a855f7" font-weight="700">segurança ofensiva</text>
+    <text x="620" y="164" fill="#c9d1d9">— aplicações</text>
+    <text x="754" y="164" fill="#38bdf8">Web,</text>
+
+    <text x="38" y="188" fill="#38bdf8">APIs, Mobile</text>
+    <text x="174" y="188" fill="#c9d1d9">,</text>
+    <text x="194" y="188" fill="#f59e0b" font-weight="700">IA</text>
+    <text x="220" y="188" fill="#c9d1d9">,</text>
+    <text x="240" y="188" fill="#a855f7" font-weight="700">OSINT</text>
+    <text x="300" y="188" fill="#c9d1d9">e análise adversarial. Segurança testada pela</text>
+
+    <text x="38" y="212" fill="#c9d1d9">perspectiva do atacante, com foco em</text>
+    <text x="422" y="212" fill="#00ff41" font-weight="700">exploração validada</text>
+    <text x="630" y="212" fill="#c9d1d9">,</text>
+    <text x="650" y="212" fill="#fb2c36" font-weight="700">impacto real</text>
+
+    <text x="38" y="236" fill="#c9d1d9">e</text>
+    <text x="62" y="236" fill="#38bdf8" font-weight="700">remediação prática</text>
+    <text x="260" y="236" fill="#c9d1d9">."</text>
+  </g>
+</svg>

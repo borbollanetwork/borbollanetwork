@@ -2,34 +2,23 @@
 
 <div align="center">
 
-<img src="assets/avatar.gif" width="190" alt="Renato Borbolla" />
-
 <a href="https://renatoborbolla.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&pause=1000&color=00FF41&center=true&vCenter=true&width=820&height=68&lines=Pentester+%7C+Red+Team+%7C+Seguranca+Ofensiva;Exploracao+validada.+Impacto+real.;OSINT+%7C+Adversary+Simulation+%7C+CTI" alt="Pentester | Red Team | Segurança Ofensiva" />
+  <img src="assets/banner.gif" width="100%" alt="Renato Borbolla — Pentest, Red Team, Segurança Ofensiva e AI Engineering" />
 </a>
 
 </div>
 
-```bash
-$ whoami
-renato_basante_borbolla   #  aka borbollanetwork  ·  São Paulo, BR
-
-$ cat ~/.profile
-"Pentester e Red Team especializado em segurança ofensiva — aplicações Web,
- APIs, Mobile, IA, OSINT e análise adversarial. Segurança testada pela
- perspectiva do atacante, com foco em exploração validada, impacto real
- e remediação prática."
-```
+<img src="assets/profile-terminal.svg" width="100%" alt="Perfil profissional de Renato Borbolla em terminal colorido" />
 
 <div align="center">
 
-![Pentester](https://img.shields.io/badge/-Pentester-0d1421?style=for-the-badge&labelColor=00ff41)
-![Red Team](https://img.shields.io/badge/-Red_Team-0d1421?style=for-the-badge&labelColor=fb2c36)
-![Purple Team](https://img.shields.io/badge/-Purple_Team-0d1421?style=for-the-badge&labelColor=a855f7)
-![OSINT](https://img.shields.io/badge/-OSINT-0d1421?style=for-the-badge&labelColor=00ff41)
-![Cyber Threat Intel](https://img.shields.io/badge/-Cyber_Threat_Intelligence-0d1421?style=for-the-badge&labelColor=f59e0b)
-![Social Engineer](https://img.shields.io/badge/-Social_Engineer-0d1421?style=for-the-badge&labelColor=a855f7)
-![Ethical Hacker](https://img.shields.io/badge/-Ethical_Hacker-0d1421?style=for-the-badge&labelColor=f59e0b)
+![Pentester](https://img.shields.io/badge/PENTESTER-00c853?style=for-the-badge)
+![Red Team](https://img.shields.io/badge/RED_TEAM-d32f2f?style=for-the-badge)
+![Purple Team](https://img.shields.io/badge/PURPLE_TEAM-7c3aed?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-0284c7?style=for-the-badge)
+![Cyber Threat Intel](https://img.shields.io/badge/CYBER_THREAT_INTELLIGENCE-d97706?style=for-the-badge)
+![Social Engineer](https://img.shields.io/badge/SOCIAL_ENGINEER-9333ea?style=for-the-badge)
+![Ethical Hacker](https://img.shields.io/badge/ETHICAL_HACKER-16a34a?style=for-the-badge)
 
 </div>
 
